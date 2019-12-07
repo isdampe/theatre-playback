@@ -1,0 +1,3 @@
+bin/**
+src/*.c
+src/*.h
